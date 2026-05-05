@@ -1,0 +1,6 @@
+templates/
+ └── store/
+     ├── base.html
+     ├── home.html
+     ├── login.html
+     └── register.html
